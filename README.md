@@ -1,6 +1,7 @@
 ![logo](https://github.com/Aaaanchall/Aaaanchall/blob/main/git%20banner.webp)
-<h1 align="center">Heellloooo!!!!<br> I'm Aanchal Temley</h1>
-<h3 align="center"> Welcome to my Git</h3>
+<h1 align="center">Welcome to my Git coders!!</h1>
+<h3 align="left"> idk much , I am learning</h3> <h3 align="right">visual representation of me coding</h3>
+
 
 
 <img align="right" alt="codeGirl" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO6CJIE6Pdpwg39QOCIlFe34rfVw204SxqA&s">
