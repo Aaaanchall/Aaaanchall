@@ -1,3 +1,4 @@
+![logo](https://github.com/Aaaanchall/Aaaanchall/blob/main/git%20banner.webp)
 <h1 align="center">Heellloooo!!!!<br> I'm Aanchal Temley</h1>
 <h3 align="center"> Welcome to my Git</h3>
 
