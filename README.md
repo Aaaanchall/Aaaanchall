@@ -1,5 +1,6 @@
 <h1 align="center">Heellloooo!!!!<br> I'm Aanchal Temley</h1>
-<h3 align="center">Okay so I'm a 3rd yr student of CSE in Data Science who is good at communication and problem-solving skills. Proficient in Python, JS, HTML, and CSS.<br>Passionate about crafting effective solutions (: </h3>
+<h3 align="center"> Welcome to my Git</h3>
+
 
 <img align="right" alt="codeGirl" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO6CJIE6Pdpwg39QOCIlFe34rfVw204SxqA&s">
 
